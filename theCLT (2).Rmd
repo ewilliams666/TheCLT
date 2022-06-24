@@ -98,7 +98,7 @@ The plot is unimodal, meaning it only has one peak. The mean is 50.18228 and the
 
 Write a summary paragraph describing what you observed and how it relates to the central limit theorem.
 
-For all the of the plots above the mean stayed at around 50. As far as the standard deviation, the more samples we had the small the standard deviation got. This is because each time we change the number of samples the standard deviation is divided by the square root of the number of samples.
+For all the of the plots above the mean stayed at around 50. As far as the standard deviation, the more samples we had the small the standard deviation got. This is because each time we change the number of samples the standard deviation is divided by the square root of the number of samples. 
 
 
 
