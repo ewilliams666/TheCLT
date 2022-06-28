@@ -40,7 +40,7 @@ print(sd(x.avg))
 
 Describe the resulting plot -  is it unimodal?  How many peaks does it have?  Are all the peaks the same size? 
 
- Here we have a trimodel plot because it has three peaks. All of the peaks are not the same size, with the one in the middle being the highest. For this plot the mean is 49.8995 and the standard deviation is 29.29363.
+ Here we have a trimodel plot because it has three peaks. All of the peaks are not the same size, with the one in the middle being the highest. For this plot the mean is 49.8 and the standard deviation is 29.3.
  
 Do this again for 4 random samples
 
@@ -53,7 +53,7 @@ densityplot(x.avg,main="sample size 4")
 print(mean(x.avg))
 print(sd(x.avg))
 ```
-Here we have a trimodal plot. The peaks are not all the same size. The mean is 50.5675 and the standard deviation is 20.38927.
+Here we have a trimodal plot. The peaks are not all the same size. The mean is 50.5 and the standard deviation is 20.4.
 
 Then again for 9 random samples
 
@@ -67,7 +67,7 @@ print(mean(x.avg))
 print(sd(x.avg))
 ```
 
-Here we see the plot moving to being more unimodal. The mean is 50.68622 and the standard deviation is 13.91124.
+Here we see the plot moving to being more unimodal. The mean is 50.6 and the standard deviation is 13.9.
 
 then 16 random samples
 
@@ -80,6 +80,11 @@ densityplot(x.avg,main="sample size 16")
 print(mean(x.avg))
 print(sd(x.avg))
 ```
+
+
+Here the plot is unimodal because it only has one peak. The mean is 50.4 and the standard deviation is 10.6.
+
+
 
 finally for 36 random samples.
 
@@ -94,7 +99,7 @@ print(mean(x.avg))
 print(sd(x.avg))
 ```
 
-The plot is unimodal, meaning it only has one peak. The mean is 50.18228 and the standard deviation is 6.828936.
+The plot is unimodal, meaning it only has one peak. The mean is 50.1 and the standard deviation is 6.82.
 
 Write a summary paragraph describing what you observed and how it relates to the central limit theorem.
 
