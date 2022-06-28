@@ -82,7 +82,7 @@ print(sd(x.avg))
 ```
 
 
-Here the plot is unimodal because it only has one peak. The mean is 50.4 and the standard deviation is 10.6.
+Here the plot is unimodal because it only has one peak. The mean is 50.4 and the standard deviation is 10.6. 
 
 
 
